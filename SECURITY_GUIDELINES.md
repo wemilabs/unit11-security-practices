@@ -1,5 +1,11 @@
 # Security Guidelines for Implementing Safe Repository Practices using Git
 
+<p align="center"><img src="https://ubrw5iu3hw.ufs.sh/f/TFsxjrtdWsEIpAym9DVIN8qB9zrPkx7h3YEvXTfboyKpdS2L" alt="GitHub Security" class="rounded-md" /></p>
+
+<div class="flex justify-center mb-20">
+  <span class="text-sm text-center text-white/70"><em>Enhance Your Repository Security with advanced practices such as 2FA, SSH keys, and RBAC</em></span>
+</div>
+
 ## Table of Contents
 
 - [Introduction](#introduction)
